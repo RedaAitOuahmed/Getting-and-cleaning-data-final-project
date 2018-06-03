@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528035198528.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2206556420",
+    "id" : "7FB63617",
+    "lastKnownWriteTime" : 1528053408,
+    "last_content_update" : 1528053408888,
+    "path" : "C:/Users/redaa/Desktop/Coursera/course3/Final Project/UCI HAR Dataset/run_analysis.R",
+    "project_path" : "run_analysis.R",
+    "properties" : {
+        "cursorPosition" : "140,11",
+        "scrollLine" : "124",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
